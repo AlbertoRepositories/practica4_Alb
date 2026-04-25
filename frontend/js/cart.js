@@ -62,11 +62,11 @@ function calculateTotal(cart) {
 
       <h4>Total de la transacción a efectuar:</h4>
       <hr>
-      // Primero el precio por tipo de producto añadido
+      
       ${cart.map(item => `
         <p>${item.title} x ${item.quantity} = $ ${item.price * item.quantity}</p>
       `).join("")}
-        // Y finalmente los cálculos finales efectuados
+        
       <p>Subtotal: $ ${subtotal}</p>
       <p>Envío: $ ${envio}</p>
 
