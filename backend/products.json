@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "https://m.media-amazon.com/images/I/61lyQsHXQ7L._AC_SL1500_.jpg",
+    "title": "Gigan (2004)",
+    "description": "De la Movie Monster Series",
+    "unit": "pieza",
+    "category": "Era Millenium",
+    "pricePerUnit": 599
+  },
+  {
+    "id": "34",
+    "imageUrl": "https://m.media-amazon.com/images/I/71T2WbNDeaL._AC_SX679_.jpg",
+    "title": "Godzilla (1955)",
+    "description": "De Bandai Monster Series",
+    "unit": "pieza",
+    "category": "Era Showa",
+    "pricePerUnit": 499,
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://i.ebayimg.com/images/g/2uIAAeSwzoJo10L3/s-l1600.webp",
+    "title": "Anguirus (1972)",
+    "description": "Japan Movie Monster Series",
+    "unit": "pieza",
+    "category": "Era Showa",
+    "pricePerUnit": 479,
+    "stock": 8
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://m.media-amazon.com/images/I/61AoOJXJBKL._AC_SL1200_.jpg",
+    "title": "Mechagodzilla (1974)",
+    "description": "Tamashii Nations",
+    "unit": "pieza",
+    "category": "Era Showa",
+    "pricePerUnit": 1400,
+    "stock": 5
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://m.media-amazon.com/images/I/81MeSCDDNiL._AC_SL1500_.jpg",
+    "title": "Gigan (1972)",
+    "description": "S.H MonsterArts",
+    "unit": "pieza",
+    "category": "Era Showa",
+    "pricePerUnit": 1200,
+    "stock": 6
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://i.ebayimg.com/images/g/xSUAAeSwmnlpcotO/s-l1600.webp",
+    "title": "Mothra (1992)",
+    "description": "Toho Collections",
+    "unit": "pieza",
+    "category": "Era Heisei",
+    "pricePerUnit": 800,
+    "stock": 12
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://m.media-amazon.com/images/I/81-rz+titML._AC_SL1500_.jpg",
+    "title": "M.O.G.U.E.R.A (1994)",
+    "description": "Japan Movie Monster Series",
+    "unit": "pieza",
+    "category": "Era Heisei",
+    "pricePerUnit": 399,
+    "stock": 7
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://m.media-amazon.com/images/I/61sSUglJ6vL._AC_SL1007_.jpg",
+    "title": "Godzilla Burning (1995)",
+    "description": "S.H MonsterArts",
+    "unit": "pieza",
+    "category": "Era Heisei",
+    "pricePerUnit": 2999,
+    "stock": 3
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://i.ebayimg.com/images/g/T-wAAeSweRNpMy6y/s-l1600.webp",
+    "title": "Baragon (2001)",
+    "description": "Bandai Movie Monster Series",
+    "unit": "pieza",
+    "category": "Era Millenium",
+    "pricePerUnit": 799,
+    "stock": 9
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://toysstore.es/wp-content/uploads/2025/10/2-12.jpg",
+    "title": "Megaguirus",
+    "description": "S.H MonsterArts",
+    "unit": "pieza",
+    "category": "Era Millenium",
+    "pricePerUnit": 1199,
+    "stock": 4
+  },
+  {
+    "id": "10",
+    "imageUrl": "https://m.media-amazon.com/images/I/717f-QsuTcL._AC_SL1500_.jpg",
+    "title": "Rainbow Mothra Leo",
+    "description": "Bandai Movie Monsters EX",
+    "unit": "pieza",
+    "category": "Era Heisei",
+    "pricePerUnit": 1999,
+    "stock": 5
+  },
+  {
+    "id": "11",
+    "imageUrl": "https://i.ebayimg.com/images/g/~uIAAeSw8GNphurm/s-l1600.webp",
+    "title": "Shimo",
+    "description": "Hiya Toys",
+    "unit": "pieza",
+    "category": "Monsterverse",
+    "pricePerUnit": 1799,
+    "stock": 6
+  },
+  {
+    "id": "12",
+    "imageUrl": "https://m.media-amazon.com/images/I/71LfrrVSV6L._AC_SL1500_.jpg",
+    "title": "Godzilla (2023)",
+    "description": "S.H MonsterArts",
+    "unit": "pieza",
+    "category": "Reiwa",
+    "pricePerUnit": 1999,
+    "stock": 10
+  }
+]
